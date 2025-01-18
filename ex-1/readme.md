@@ -1,33 +1,33 @@
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
-![date command output](date +%D.png)   
+![date command output](date+%D.png)   
 ### DATE COMMAND MANUAL
-![date command manual](mdate.png)
+![date command manual](mdate+%D.png)
 ### DATE TIME COMMAND OUTPUT
-![date time command output](date1.png)
+![date time command output](date+%T.png)
 ### DATE TIME COMMAND MANUAL
-![date time command manual](mdate1.png)
+![date time command manual](mdate+%T.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](date2.png)
+![date year command output](date+%Y.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate2.png)
+![date year command manual](mdate+%Y.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](date3.png)
+![date hour command output](date+%H.png)
 ### DATE HOUR COMMAND MANUAL
-![date hour command manual](mdate3.png)
+![date hour command manual](mdate+%H.png)
 ### CAL COMMAND OUTPUT
 ![cal command output](cal.png)
 ### CAL COMMAND MANUAL
 ![cal command manual](mcal.png)
 ### CAL-YEAR COMMAND OUTPUT
-![cal-year command output](cal1.png)
+![cal-year command output](cal year.png)
 ### CAL-YEAR COMMAND MANUAL
-![cal-year command manual](mcal.png)
+![cal-year command manual](mcal year.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](cal2.png)
+![cal-month command output](cal month year.png)
 ### CAL-MONTH COMMAND MANUAL
-![cal-month command manual](mcal.png)
+![cal-month command manual](mcal month year.png)
 ### WHO COMMAND OUTPUT 
 ![who command output](who.png)
 ### WHO COMMAND MANUAL
@@ -35,7 +35,7 @@
 ### WHO AM I COMMAND OUTPUT 
 ![who am i command output](who am i.png)
 ### WHO AM I COMMAND MANUAL
-![who am i command manual](mwhoami.png)
+![who am i command manual](mwho am i.png)
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
 ![tty command output](tty.png)
 ### TTY COMMAND MANUAL
@@ -45,21 +45,21 @@
 ### UNAME COMMAND MANUAL
 ![uname command manual](muname.png)
 ### UNAME-R COMMAND OUTPUT
-![uname-r command output](uname1.png)
+![uname-r command output](uname -n.png)
 ### UNAME-R COMMAND MANUAL
-![uname-r command manual](muname1.png)
+![uname-r command manual](muname -n.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](uname2.png)
+![uname-n command output](uname -r.png)
 ### UNAME-N COMMAND MANUAL
-![uname-n command manual](muname2.png)
+![uname-n command manual](muname -r.png)
 ### ECHO COMMAND OUTPUT
 ![echo command output](echo.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo1.png)
+![echo $ command output](echo $home.png)
 ### ECHO $ COMMAND MANUAL 
-![echo $ command manual](mecho1.png)
+![echo $ command manual](mecho $echo.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
 ![bc command output](bc.png)
 ### BC - BASIC CALCULATOR COMMAND MANUAL
