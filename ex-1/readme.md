@@ -64,13 +64,6 @@
 ![bc command output](bc.png)
 ### BC - BASIC CALCULATOR COMMAND MANUAL
 ![bc command manual](mbc.png)
-## IP FILE COMMANDS
-### MAN COMMONAD OUTPUT
-![example using man command](mecho1.png)
-### HISTORY COMMAND OUTPUT
-![history command output](history.png)
-### HISTORY COMMAND MANUAL 
-![history command manual](mhistory.png)
 ### EXIT COMMAND OUTPUT
 ![exit command output](exit.png)
 ### EXIT COMMAND MANUAL
@@ -81,90 +74,78 @@
 ### PWD COMMAND MANUAL
 ![pwd command manual](mpwd.png)
 ### MKDIR COMMAND OUTPUT
-![mkdir command output](mkdir.png)
+![mkdir command output](mkdir & mkdir with 2 subdirs.png)
 ### MKDIR COMMAND MANUAL
-![mkdir command manual](mmkdir.png)
+![mkdir command manual](mmkdir  & mkdir with 2 subdirs.png)
 ### CD  SUBDIR COMMAND OUTPUT
 ![cd command output](cd.png)
 ### CD SUBDIR COMMAND MANUAL
 ![cd command manual](mcd.png)
 ### CD .. COMMAND OUTPUT
-![cd .. command output](cd1.png)
+![cd .. command output](cd..png)
 ### CD .. COMMAND MANUAL
-![cd .. command manual](mcd1.png)
+![cd .. command manual](mcd..png)
 ### RMDIR COMMAND OUTPUT
-![rmdir command output](rmdir.png)
+![rmdir command output](rmdir subdir.png)
 ### RMDIR COMMAND MANUAL
-![rmdir command manual](mrmdir.png)
+![rmdir command manual](mrmdir subdir.png)
 ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
-![cat command output](cat.png)
+![cat command output](cat filename.png)
 ### CAT COMMAND MANUAL
-![cat command manual](mcat.png)
+![cat command manual](mcat filename.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](cat2.png)
+![cat >> command output](cat..png)
 ### CAT >> COMMAND MANUAL 
-![cat >> command manual](mcat.png)
+![cat >> command manual](mcat..png)
 ### CP COMMAND OUTPUT
 ![cp command output](cp.png)
 ### CP COMMAND MANUAL
 ![cp command manual](mcp.png)
-### CP -I COMMAND OUTPUT
-![cp -i command output](cp1.png)
-### CP -I COMMAND MANUAL
-![cp -i command manual](mcp.png)
 ### CP -R COMMAND OUTPUT
-![cp -r command output](cp2.png)
+![cp -r command output](cp -r.png)
 ### CP -R COMMAND MANUAL
-![cp -r command manual](mcp.png)
+![cp -r command manual](mcp -r.png)
 ### MV OLD NEW COMMAND OUTPUT
-![mv command output](mv.png)
+![mv command output](mv old new.png)
 ### MV OLD NEW COMMAND MANUAL
-![mv  command manual](mmv.png)
+![mv  command manual](mmv old new.png)
 ### MV -V OLD NEW COMMAND OUTPUT
-![mv  command output](mv1.png)
+![mv  command output](mv f1 f2 f3.png)
 ### MV -V OLD NEW COMMAND MANUAL
-![mv  command manual](mmv.png)
+![mv  command manual](mmv f1 f2 f3.png)
 ### RM FILE COMMAND OUTPUT
 ![rm  command output](rm.png)
 ### RM FILE COMMAND MANUAL
 ![rm  command manual](mrm.png)
 ### RM * COMMAND OUTPUT
-![rm * command output](rm1.png)
+![rm * command output](rm file.png)
 ### RM * COMMAND MANUAL
-![rm * command manual](mrm.png)
-### RM -R * COMMAND OUTPUT
-![rm -r * command output](rm2.png)
-### RM * COMMAND MANUAL
-![rm -r * command manual](mrm.png)
-### RM -F * COMMAND OUTPUT
-![rm -f * command output](rm3.png)
-### RM -F * COMMAND OUTPUT
-![rm -f * command manual](mrm.png)
+![rm * command manual](mrm file.png)
 ### LS COMMAND OUTPUT
 ![ls command output](ls.png)
 ### LS COMMAND MANUAL
 ![ls command manual](mls.png)
 ### LS NAME * COMMAND OUTPUT
-![ls name command output](ls1.png)
+![ls name command output](ls name.png)
 ### LS NAME * COMMAND MANUAL
-![ls name command manual](mls.png)
+![ls name command manual](mls name.png)
 ### LS - A COMMAND OUTPUT
-![ls - a command output](ls2.png)
+![ls - a command output](ls-a.png)
 ### LS - A COMMAND MANUAL
-![ls -a command manual](mls.png)
+![ls -a command manual](mls-a.png)
 ### LS -X DIR NAME COMMAND OUTPUT
-![ls -x dir command output](ls3.png)
+![ls -x dir command output](ls-x dirname.png)
 ### LS - X DIR NAME COMMAND MANUAL
-![ls -x dir command manual](mls.png)
+![ls -x dir command manual](mls-x dirname.png)
 ### LS -R COMMAND OUTPUT
-![ls -r command manual](ls4.png)
+![ls -r command manual](ls-r.png)
 ### LS -R COMMAND MANUAL
-![ls -r command manual](mls.png)
+![ls -r command manual](mls-r.png)
 ### LS - L COMMAND OUTPUT
-![ls -l command output](ls5.png)
+![ls -l command output](ls-1.png)
 ### LS -L COMMAND MANUAL
-![ls -l command manual](mls.png)
+![ls -l command manual](mls-1.png)
 ### CMP COMMAND OUTPUT
 ![cmp command output](cmp.png)
 ### CMP COMMAND MANUAL
