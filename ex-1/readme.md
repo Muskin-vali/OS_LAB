@@ -1,7 +1,7 @@
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
-![date command output](date.png)   
+![date command output](date +%D.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](mdate.png)
 ### DATE TIME COMMAND OUTPUT
