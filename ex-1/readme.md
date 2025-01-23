@@ -155,7 +155,4 @@
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](mchmod.png)
 
-
-
-
 # The Study And Execution Of Unix Commands Has Been Completed Successfully.
