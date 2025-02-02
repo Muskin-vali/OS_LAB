@@ -120,7 +120,7 @@
 ### LS NAME * COMMAND OUTPUT
 ![ls name command output](ls_name.png)
 ### LS NAME * COMMAND MANUAL
-![ls name command manual](ml.png)
+![ls name command manual](mls.png)
 ### LS - A COMMAND OUTPUT
 ![ls - a command output](ls_a.png)
 ### LS - A COMMAND MANUAL
