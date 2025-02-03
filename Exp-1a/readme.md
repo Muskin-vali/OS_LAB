@@ -137,6 +137,7 @@
 
 ![cmp command output](CMP_F1_F2.png)
 ### CMP COMMAND MANUAL
+
 ![cmp command manual](mcmp.png)
 ### CHMOD COMMAND OUTPUT
 ![chmod command output](chmod_740file.png)
